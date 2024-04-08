@@ -1,6 +1,6 @@
 # Тема приложения - Поиск слов
 
-Ссылка на ДЗ
+Ссылка на ДЗ: https://github.com/zolopoly/SecondLessonWordSearch
 
 ## Задание
 
